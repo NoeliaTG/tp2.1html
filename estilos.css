@@ -2,7 +2,7 @@ header{
     display: flex;
     height: 100px;
     background-color: grey;
-    justify-content: first baseline;
+    justify-content: space-between;
     align-items: center;
     padding: 10px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -21,4 +21,7 @@ header{
 a{
     text-decoration: none;
     color: blueviolet;
+}
+footer{
+    background-color: red;
 }
