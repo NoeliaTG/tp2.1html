@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    height: 100px;
+    background-color: grey;
+    justify-content: first baseline;
+    align-items: center;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+.logo img{
+    height: 100px;
+    margin-right: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
