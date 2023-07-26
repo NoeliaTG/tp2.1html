@@ -1,0 +1,42 @@
+ejercicio 10
+La web desarrollada a traves de las consignas solicitadas en el trabajo practico esta compuesta por dos lenguajes , que son esenciales para la formacion de una pagina web, que es HTML y CSS.
+con HTML hacemos referencia a la estructura de la pagina, a traves de las etiquetas y sus atributos vamos dandole forma a la pagina
+por ejemplo: 
+	<html>
+	 <head>
+	     <title>Page Title</title>
+	 </head>
+	  <body>
+	    
+	 </body>
+	</html>
+
+
+
+ELEMENTOS DEL INDEX
+
+esta formado de la siguiente manera:
+
+	ENCABEZADO
+
+	TITULO
+	texto
+
+	IMAGEN 
+
+	SUBTITULO
+	texto
+	VIDEO
+	texto
+
+	PIE DE PAGINA
+
+
+Los elementos que contiene el encabezado del index.html son logo a la izquierda  en formato png, y tres hipervinculos, 
+inicio --> dirige a la pagina de inicio de index.html
+nosotros --> dirige a la pagina de nosotros.html
+contactos --> a contacto.html
+
+los elementos del pie de pagina , por titulo REDES
+contiene tres enlances que dirigen hacia su sitio oficial
+facebook, instagram, drive
